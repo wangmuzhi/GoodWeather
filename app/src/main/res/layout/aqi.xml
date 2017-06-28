@@ -12,6 +12,7 @@
         android:layout_marginLeft="15dp"
         android:layout_marginTop="15dp"
         android:textSize="20sp"
+        android:text="空气质量"
         android:textColor="#fff"/>
 
     <LinearLayout
